@@ -1,6 +1,6 @@
 AUTHOR = 'anon'
 SITENAME = 'AiAnonymousPT'
-SITEURL = ""
+SITEURL = "https://aianonymouspt.github.io"
 
 PATH = "content"
 
