@@ -1,5 +1,5 @@
 AUTHOR = 'anon'
-SITENAME = 'AiAnonymousPT'
+SITENAME = 'AiAnonymous'
 SITEURL = ""
 
 PATH = "content"
