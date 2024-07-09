@@ -1,6 +1,6 @@
 AUTHOR = 'anon'
 SITENAME = 'AiAnonymousPT'
-SITEURL = "https://aianonymouspt.github.io"
+SITEURL = ""
 
 PATH = "content"
 
@@ -10,9 +10,7 @@ AUTHOR_SAVE_AS = ''
 DEFAULT_LANG = 'en'
 
 THEME = "simple"
-# STYLESHEET_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
-# STYLESHEET_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.classless.lime.min.css"
-STYLESHEET_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.classless.pumpkin.min.css"
+STYLESHEET_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.classless.red.min.css"
 
 
 # Feed generation is usually not desired when developing
